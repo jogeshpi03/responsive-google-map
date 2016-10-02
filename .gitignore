@@ -1,0 +1,10 @@
+*.log
+*.DS_Store
+
+### NetBeans ###
+nbproject/*
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
